@@ -386,7 +386,7 @@
         });
 
         // Random cyber text effects
-        const cyberTexts = ['CONNECTING...', 'NEURAL LINK ESTABLISHED', 'QUANTUM SYNC ACTIVE', 'REALITY MATRIX LOADED'];
+        const cyberTexts = ['Conexoes...', 'Oportunidades de negócio', 'Networking...', 'Carreira de sucesso'];
         
         setInterval(() => {
             const randomText = cyberTexts[Math.floor(Math.random() * cyberTexts.length)];
